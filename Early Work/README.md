@@ -1,1 +1,1 @@
-# This directory contains my early work.
+Many small programs for when I was first learning the language.
